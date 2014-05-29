@@ -1,0 +1,1136 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"type",
+				"type=  (attribute)"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"cla",
+				"class=  (attribute)"
+			],
+			[
+				"rel",
+				"rel=  (attribute)"
+			],
+			[
+				"clas",
+				"class=  (attribute)"
+			],
+			[
+				"v",
+				"valign"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"class",
+				"class=  (attribute)"
+			],
+			[
+				"cl",
+				"class=  (attribute)"
+			],
+			[
+				"c",
+				"class=  (attribute)"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"id",
+				"id=  (attribute)"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"chil",
+				"children  (function)"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"strT",
+				"strtolower"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"text-",
+				"text-align:   (property)"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"te",
+				"text-align:   (property)"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"re",
+				"repeat-x  (value)"
+			],
+			[
+				"list-style-",
+				"list-style-type:   (property)"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"hre",
+				"href=  (attribute)"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"wi",
+				"width=  (attribute)"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"cell",
+				"cellspacing	table"
+			],
+			[
+				"ce",
+				"cellpadding=  (attribute)"
+			],
+			[
+				"ad",
+				"adj-table"
+			],
+			[
+				"cel",
+				"cellspacing=  (attribute)"
+			],
+			[
+				"two",
+				"two-column-options"
+			],
+			[
+				"col",
+				"colspan=  (attribute)"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"l",
+				"last-child  (pseudo-class)"
+			],
+			[
+				"widt",
+				"width"
+			],
+			[
+				"two-column",
+				"two-column-options"
+			],
+			[
+				"header",
+				"header-space"
+			],
+			[
+				"cols",
+				"colspan	td/th"
+			],
+			[
+				"paid",
+				"paid-to"
+			],
+			[
+				"total",
+				"total-amount"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ch",
+				"checked	input"
+			],
+			[
+				"no",
+				"nowrap	td/th (depr)"
+			],
+			[
+				"max-",
+				"max-width:   (property)"
+			],
+			[
+				"cos",
+				"costs-type"
+			],
+			[
+				"cost",
+				"costs-type"
+			],
+			[
+				"column",
+				"column-paidby"
+			],
+			[
+				"colu",
+				"column-beforeclosing"
+			],
+			[
+				"colum",
+				"column-answer"
+			],
+			[
+				"row",
+				"rowspan	td/th"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"border-top",
+				"border-top-right-radius"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"n",
+				"no-repeat"
+			],
+			[
+				"floa",
+				"float-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/LESS-build/LESS.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"ss html",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"find",
+				"Find: In Project"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"fin",
+				"Find: In Project"
+			],
+			[
+				"co",
+				"Toggle Comment"
+			],
+			[
+				"ss ",
+				"Set Syntax: LESS"
+			],
+			[
+				"ss css",
+				"Set Syntax: CSS"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"conver",
+				"Convert Case: Upper Case"
+			],
+			[
+				"convert",
+				"Convert Case: Upper Case"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"ss ht",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"ss ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"wraP",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ss ft",
+				"Set Syntax: FTL"
+			],
+			[
+				"ss",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ss x",
+				"Set Syntax: XML"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"buil",
+				"Build: Build"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"open ",
+				"Gist: Open Gist"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"UPP",
+				"Convert Case: Upper Case"
+			],
+			[
+				"uppe",
+				"Convert Case: Upper Case"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"get",
+				"Gist: Open Gist"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"packl",
+				"Package Control: List Packages"
+			],
+			[
+				"gis",
+				"Gist: Open Gist"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"htmlen",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"end",
+				"StringEncode: Base64 Encode"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"brack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packa cont",
+				"Package Control: List Packages"
+			],
+			[
+				"g",
+				"Gist: Open Gist"
+			],
+			[
+				"git",
+				"Gist: Open Gist"
+			],
+			[
+				"gi",
+				"Gist: Open Gist"
+			],
+			[
+				"ope",
+				"Gist: Open Gist"
+			],
+			[
+				"",
+				"Gist: Open Gist"
+			],
+			[
+				"enti",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"pack ina",
+				"Package Control: Install Package"
+			],
+			[
+				"bra",
+				"Bracket Highlighter: Select Bracket Content"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pacck",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 419.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"//docmagic.com/users/colin/My Documents/Sublime/eSign.backend.sublime-project",
+		"/C/Users/colin/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/layout/sign-layout.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/layout/layout.phtml",
+		"/C/Users/colin/Desktop/esign links.txt",
+		"/Z/esign-zf2/src/main/php/esign/public/css/bootstrap/responsive-esign.less",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/src/ESign/Form/SignerSignatureSelectForm.php",
+		"/Z/esign-zf2/src/main/php/esign/public/css/bootstrap/forms-esign.less",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/signer-account/signature-select.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/dashboard/recent-events.phtml",
+		"/Z/esign-zf2/src/main/php/esign/public/js/sign.js",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/sign/index.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/sign/sign-tour.phtml",
+		"/Z/esign-zf2/src/main/php/esign/public/js/bootstrap-tour.js",
+		"/Z/esign-zf2/src/main/php/esign/public/js/bootstrap-tour.min.js",
+		"/Z/esign-zf2/src/main/php/vendor/sorich87/bootstrap-tour/build/js/bootstrap-tour.js",
+		"/Z/esign-zf2/src/main/php/vendor/sorich87/bootstrap-tour/build/js/bootstrap-tour.min.js",
+		"/Z/esign-zf2/src/main/php/composer.json",
+		"/Z/esign-zf2/src/main/php/composer.lock",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/signer-dashboard/index.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/signer-dashboard/sigreq-row-partial.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/src/ESign/Form/GroupSearchForm.php",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/group/search.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/theme/create.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/src/ESign/Form/ThemeForm.php",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/signer-account/terms-of-use-freesign.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/signer-account/terms-of-use-esign.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/src/ESign/Form/SignerLoginForm.php",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/src/ESign/Form/SigreqSearchForm.php",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/src/ESign/Form/GroupPreferenceForm.php",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/src/ESign/Form/SignerConsentForm.php",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/signer-login/index.phtml",
+		"/Z/esign-zf2/src/main/php/esign/public/css/bootstrap/sign.less",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/sign/action-bar.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/sigreq/print-mail-modal.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/sign/subpackage-pdf-modal.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/src/ESign/Form/InksignUploadForm.php",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/sigreq/delivery.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/sign/upload-modal.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/src/ESign/Controller/SignController.php",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/sign/document-header.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/sigreq/details.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/src/ESign/Model/Sigreq.php",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/sign/scoreboard.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/sign/document-summary.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/sigreq-search/search-filter.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/helpers/page-controls.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/sigreq-search/index.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/src/ESign/Controller/SignerLoginController.php",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/signer-login/consent.phtml",
+		"/Z/esign-zf2/src/main/php/esign/public/css/bootstrap/esign.less",
+		"/Z/esign-zf2/src/main/php/esign/public/css/bootstrap/variables-esign.less",
+		"/Z/esign-zf2/src/main/php/esign/public/css/bootstrap/buttons-esign.less",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/signer-login/index.phtml.mine",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/signer-login/index.phtml.r43704",
+		"/Z/esign-zf2/src/main/php/esign/public/css/bootstrap/theme-variables-default.less",
+		"/Z/esign-zf2/src/main/php/esign/public/css/bootstrap/silk-icons-sprite-esign.less",
+		"/C/Users/colin/AppData/Local/Temp/scp16661/home/cmacdiarmid/negativesplits.net/pages/raceresults.php",
+		"/Z/esign-zf2/src/main/php/esign/public/css/bootstrap/bootstrap-esign.less",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/config/router.config.php",
+		"/Z/esign-zf2/src/main/php/vendor/twitter/bootstrap/less/glyphicons.less",
+		"/C/Users/colin/AppData/Local/Temp/scp16492/home/cmacdiarmid/negativesplits.net/pages/results.php",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/language/en_US.po",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/sigreq/index.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/sigreq/add-internal-note.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/src/ESign/Controller/SigreqController.php",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/group-preference/index.phtml",
+		"/Z/esign-zf2/src/main/php/vendor/twitter/bootstrap/js/tooltip.js",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/src/ESign/Model/Preference.php",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/src/ESign/View/PhpRendererTypeHints.php",
+		"/Z/esign-zf2/src/main/php/esign/public/css/bootstrap/navbar-esign.less",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/sigreq-search/result-row.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/error/404.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/error/index.phtml",
+		"/Z/esign-zf2/src/main/php/esign/public/css/datepicker.css",
+		"/Z/esign-zf2/src/main/php/esign/public/js/bootstrap-datepicker.js",
+		"/Z/esign-zf2/src/main/php/esign/public/css/bootstrap/glyphicons-esign.less",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/dashboard/index.phtml",
+		"/C/Users/colin/AppData/Local/Temp/scp24451/home/cmacdiarmid/negativesplits.net/pages/raceresults.php",
+		"/Z/esign-zf2/src/main/php/esign/public/css/style.css",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/sigreq/failures.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/sigreq/scoreboard.phtml",
+		"/Z/esign-zf2/src/main/php/esign/module/DMLogging/src/DMLogging/View/DmStats.php",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/sign/page-viewer.phtml",
+		"/Z/esign-zf2/src/main/php/components/require.css",
+		"/Z/esign-zf2/src/main/php/esign/public/css/silk-icons-sprite.min.css",
+		"/Z/esign-zf2/src/main/php/esign/public/css/bootstrap/sprites-esign.less",
+		"/Z/esign-zf2/src/main/php/data/templates/responsive/graph.html",
+		"/Z/esign-zf2/src/main/php/esign/public/css/bootstrap/bootstrap-esign-default.less",
+		"/Z/esign-zf2/src/main/php/esign/public/css/bootstrap/bootstrap-esign.css",
+		"/Z/esign-zf2/src/main/php/esign/public/css/bootstrap/bootstrap-esign-default.css",
+		"/Z/esign-zf2/src/main/php/vendor/twitter/bootstrap/less/variables.less",
+		"/Z/esign-zf2/src/main/php/vendor/components/font-awesome/component.json",
+		"/Z/esign-zf2/src/main/php/esign/public/css/bootstrap/navs-esign.less",
+		"/Z/esign-zf2/src/main/php/esign/public/css/bootstrap/forms-esign.css",
+		"/C/Users/colin/Desktop/Desktop/delete/less/bootstrap.less",
+		"/Z/esign-zf2/src/main/php/vendor/twitter/bootstrap/less/tables.less",
+		"/Z/esign-zf2/src/main/php/esign/public/js/html5shiv.js",
+		"/Z/esign-zf2/src/main/php/esign/public/js/html5.js",
+		"/Z/esign-zf2/src/main/php/vendor/twitter/bootstrap/assets/js/html5shiv.js",
+		"/Z/esign-zf2/src/main/php/vendor/twitter/bootstrap/examples/theme/index.html",
+		"/Z/esign-zf2/src/main/php/vendor/twitter/bootstrap/examples/carousel/index.html",
+		"/C/Users/colin/AppData/Local/Temp/scp19722/var/www/html/sites/docmagic.com/css/jquery/datatables/style.css",
+		"/Z/esign-zf2/src/main/php/esign/public/js/sigreq-search.js",
+		"/Z/esign-zf2/src/main/php/esign/public/js/bootstrap-rowlink.min.js",
+		"/C/Users/colin/Desktop/Desktop/delete/width.html",
+		"/C/Users/colin/AppData/Local/Temp/scp46314/home/cmacdiarmid/negativesplits.net/pages/raceresults.php",
+		"/C/Users/colin/AppData/Local/Temp/scp46155/home/cmacdiarmid/negativesplits.net/pages/results.php",
+		"/C/Users/colin/Desktop/Desktop/delete/check.html",
+		"/C/Users/colin/Desktop/Desktop/delete/hr2.html",
+		"/Z/esign-zf2/src/main/php/sigmagic/business/core/config.php",
+		"/C/Users/colin/Desktop/Desktop/delete/quotecreation.txt",
+		"/C/Users/colin/workspace/DSIConfig/src/main/resources/templates/common.function.assign.ftl",
+		"/C/Users/colin/workspace/DSIConfig/src/main/resources/templates/loandetail.dsi.ftl",
+		"//docmagic.com/shares/Quality Assurance/TestTools/Python/src/scrub.py",
+		"//docmagic.com/shares/Quality Assurance/cleanrequest.py",
+		"/C/Users/colin/Desktop/o_request.xml",
+		"/C/Users/colin/Desktop/request_29141508677_367.xml",
+		"/C/Users/colin/AppData/Local/Temp/scp51048/var/www/html/sites/all/js/jquery/jquery.loan.details.js",
+		"/C/fm request/FillmagicRequest.xml",
+		"/C/fm request/FillmagicResponse.xml",
+		"/C/Users/colin/AppData/Local/Temp/scp45676/var/www/html/sites/all/js/jquery/jquery.loan.details.js",
+		"/C/tools/apache-tomcat-6.0.29/wtpwebapps/WebServices/admin/lender.jsp",
+		"/C/tools/apache-tomcat-6.0.29/work/Catalina/localhost/webservices/org/apache/jsp/admin/lender_jsp.java",
+		"/C/Users/colin/AppData/Local/Temp/scp35756/home/cmacdiarmid/negativesplits.net/pages/races.php",
+		"/C/Users/colin/AppData/Local/Temp/scp36396/home/cmacdiarmid/negativesplits.net/pages/raceresults.php",
+		"/Z/esign-zf2/src/main/php/esign/config/autoload/local.php",
+		"/Z/esign-zf2/src/main/php/esign/module/ESign/view/e-sign/sigreq/documents.phtml"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"Z:\\esign-zf2\\src\\main\\php",
+			"<open files>,<open folders>",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\module\\ESign\\src\\ESign\\Controller\\SignerLoginController.php",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\module\\ESign\\src\\ESign\\Form\\SignerLoginForm.php",
+			"<open files>,<open folders>",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\module\\ESign,Z:\\esign-zf2\\src\\main\\php\\esign\\public\\css",
+			"Z:\\esign-zf2\\src\\main\\php\\esign",
+			"Z:\\esign-zf2\\src\\main\\php\\vendor\\twitter\\bootstrap\\less",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\public\\css\\bootstrap",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\public\\css",
+			"<open files>,<open folders>",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\public\\css\\bootstrap",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\module\\ESign",
+			"Z:\\esign-zf2",
+			"C:\\Users\\colin\\workspace\\Drupal",
+			"Z:\\esign-zf2\\",
+			"Z:\\esign-zf2\\src\\main\\php\\esign",
+			"<open files>,<open folders>",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\public\\css\\bootstrap",
+			"C:\\Users\\colin\\Desktop\\Desktop\\delete\\u",
+			"<open files>",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\public\\css\\bootstrap",
+			"<open files>,Z:\\esign-zf2\\src",
+			"<open files>",
+			"Z:\\esign-zf2\\src\\main\\php\\vendor\\twitter\\bootstrap\\less",
+			"<open files>,Z:\\esign-zf2\\src\\main\\php\\esign",
+			"<open files>",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\module\\ESign\\view\\e-sign\\sigreq",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\public\\css\\bootstrap",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\module\\ESign\\view\\e-sign,Z:\\esign-zf2\\src\\main\\php\\esign\\public",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\module\\ESign\\view\\e-sign",
+			"<open files>,Z:\\esign-zf2\\src\\main\\php\\esign\\public\\css\\bootstrap",
+			"<open files>",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\public\\css\\bootstrap",
+			"C:\\Users\\colin\\workspace\\DSIConfig\\src\\main\\resources\\templates",
+			"Z:\\esign-zf2\\src\\main\\php\\",
+			"Z:\\esign-zf2\\src\\main\\php\\sigmagic",
+			"C:\\Users\\colin\\AppData\\Roaming\\Sublime Text 2\\",
+			"C:\\Users\\colin\\AppData\\Roaming\\Sublime Text 2\\Packages",
+			"C:\\Users\\colin\\AppData\\Roaming\\Sublime Text 2\\Packages\\Default",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\public\\css\\bootstrap,Z:\\esign-zf2\\src\\main\\php\\vendor\\twitter\\bootstrap\\less",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\public,Z:\\esign-zf2\\src\\main\\php\\vendor\\twitter\\bootstrap\\less",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\public",
+			"Z:\\esign-zf2\\src\\main\\php\\",
+			"Z:\\esign-zf2\\src\\main\\php\\esign",
+			"Z:\\esign-zf2\\src\\main\\php\\esign\\module\\ESign\\view\\e-sign",
+			"Z:\\esign-zf2\\src\\main\\php\\esign",
+			"Z:\\esign-zf2\\",
+			"Z:\\esign-zf2\\*",
+			"Z:\\esign-zf2\\",
+			"C:\\Users\\colin\\Desktop\\Desktop\\delete\\u",
+			"X:\\",
+			"C:\\tools\\xampp",
+			"\\\\dev-app2\\dsivar\\work\\100CM\\COLIN",
+			"\\\\dev-app1\\dsivar\\work\\100CM",
+			"\\\\dev-app1\\dsivar\\work\\100MSM\\MIKEM",
+			"G:\\Users\\colin\\workspace",
+			"C:\\Program Files (x86)\\acquia-drupal",
+			"C:\\Users\\colin\\Sites\\acquia-drupal",
+			"G:\\Users\\colin\\AppData\\Roaming\\.purple\\logs\\jabber\\colin@imsrv\\rpike@imsrv"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"filter",
+			"bootstrap-tour",
+			"label-consented",
+			"checkbox-wra",
+			"\n  ",
+			"checkbox-wrapper",
+			"label-consented",
+			"CHECKBOX-WRAPPER",
+			"label-consented",
+			"checkbox-wrapper",
+			"please select a sign",
+			"by checking this box",
+			"appendFile",
+			"createMainTour",
+			"sign-tour",
+			"sign-tour.phtml",
+			"mainTour",
+			"mainTour = new Tour({\nmainTour = new Tour({\nmainTour =",
+			"tour",
+			"createMainTour",
+			"bootstrap-tour",
+			"sign.js",
+			"\\",
+			"jquery",
+			"respond.js",
+			"6",
+			"id=\"pack",
+			"request paper copy",
+			"col-md-1",
+			"<div class=\"\">",
+			"control-label",
+			"input ",
+			"<label>",
+			"</label><input",
+			"<div class=\"\">",
+			":",
+			"</label>",
+			"<input",
+			"<span>",
+			"</span>",
+			"form-horizontal",
+			"firefox",
+			"google",
+			"ul>",
+			"li>",
+			"New Sign",
+			"Enter the last [4] digits of your SSN",
+			"col-md-3",
+			"From Date",
+			"pagenav",
+			"Upload Ink Documents",
+			"#pageNavs",
+			"pageNavs",
+			"sign.js",
+			".js",
+			"sign.js",
+			"Signing In Progress",
+			"versio",
+			"getVersionIndex",
+			"documentSummary",
+			"from_date",
+			"Pick Style",
+			"');\n",
+			"change loan",
+			"change laon",
+			"eSign Disclosure and Consent ",
+			"I HAVE READ AND AGREE",
+			"col-xs-12 col-sm-4",
+			"col-xs-12 col-sm-3",
+			"col-xs-12 col-sm-1",
+			"'class' => 'input-lg',",
+			"input-lg",
+			"help-viewingCode",
+			"btn-primary",
+			"Enter the Viewing Code displayed below",
+			"div id=\"logo\"",
+			"Congratulations on your decision to access ",
+			"twb",
+			"control-group",
+			"signerLogin",
+			"Congratulations on your decision",
+			"navbar navbar-nav navbar-fixed-top",
+			"signerlogin",
+			"Enter the Viewing Code",
+			"font",
+			"asset-path",
+			"glyphicon",
+			"subpackage-pdf-modal",
+			"class=\"modal",
+			"sigreqSearch",
+			"Loan #:",
+			"action-controls",
+			"#action-controls",
+			".form-control",
+			"#action-controls",
+			"action-controls",
+			"btn",
+			"openTag",
+			"form()->openTag",
+			"$this->form()->openTag",
+			"Add Internal Note",
+			"nav navbar-nav nav-tabs",
+			"New Console:",
+			"Active Only:",
+			"\nActive Only:",
+			"\nActive Only:\n",
+			"#sigreqSearch.form-horizontal",
+			"col-md-12",
+			" col-md-12",
+			"<div class=\"row\">",
+			"Row",
+			"row",
+			"checkbo",
+			"'class' => 'col-md-12'",
+			"Account #:",
+			"#tally.well",
+			"paginationControl",
+			"Active Requests",
+			"grid-float-breakpoint",
+			"pull-right",
+			"pull-left",
+			"navbar-inner",
+			"navbar-search",
+			"class=\"nav",
+			"nav",
+			"navbar-brand",
+			"navbar-header",
+			"navbar-brand"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"list-unstyled",
+			"navbar-btn",
+			"input-group-addon",
+			"input-group",
+			"input-lg",
+			"btn-sm",
+			"col-md-9",
+			"col-md-8",
+			"col-md-7",
+			"col-md-6",
+			"col-md-5",
+			"col-md-4",
+			"col-md-3",
+			"col-md-2",
+			"col-md-1",
+			"row",
+			"@component-offset-horizontal-small",
+			"@component-offset-horizontal",
+			"@pagination-active-bg",
+			"@pagination-border",
+			"@pagination-bg",
+			"@zindex-modal",
+			"@zindex-modal-background",
+			"@zindex-navbar-fixed",
+			"@zindex-tooltip",
+			"@zindex-popover",
+			"@zindex-dropdown",
+			"@dropdown-link-hover-color",
+			"@dropdown-link-color",
+			"@dropdown-link-active-color",
+			"@dropdown-border",
+			"@dropdown-bg",
+			"@input-border-radius",
+			"@input-border",
+			"@input-bg-disabled",
+			"@input-bg",
+			"@btn-info-bg-highlight",
+			"@btn-info-bg",
+			"@btn-danger-bg-highlight",
+			"@btn-danger-bg",
+			"@btn-warning-bg-highlight",
+			"@btn-warning-bg",
+			"@btn-success-bg-highlight",
+			"@btn-success-bg",
+			"@btn-primary-bg-highlight",
+			"@btn-default-bg-highlight",
+			"@btn-primary-bg",
+			"@btn-default-border",
+			"@btn-default-bg",
+			"@table-border-color",
+			"@table-bg-hover",
+			"@table-bg-accent",
+			"@table-bg",
+			"@border-radius-small",
+			"@border-radius-large",
+			"@border-radius-base",
+			"@line-height-small",
+			"@headings-font-weight",
+			"@headings-font-family",
+			"@line-height-base",
+			"@font-size-mini",
+			"@font-size-small",
+			"@font-size-large",
+			"@font-size-base",
+			"@font-family-base",
+			"@font-family-monospace",
+			"@font-family-serif",
+			"@font-family-sans-serif",
+			"@link-color-hover",
+			"@link-color",
+			"@text-color",
+			"@body-bg",
+			"@gray-light",
+			"@gray-dark",
+			"@gray-darker",
+			"",
+			"\"",
+			"'",
+			"src=\"http://www.docmagic.com/media",
+			"src=\"http://www.docmagic.com/webservices",
+			"src=\"http://www.docmagic.com/sites",
+			"href=\"http://www.docmagic.com/sites",
+			"eSign",
+			"www.docmagic.com",
+			"edge",
+			"Edge",
+			"edge",
+			"Edge",
+			"edge",
+			"Edge",
+			"edge",
+			"Edge"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 186.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"silk",
+				"esign/public/css/bootstrap/silk-icons-sprite-esign.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"//docmagic.com/users/colin/My Documents/Sublime/LDR.sublime-project"
+			]
+		],
+		"width": 686.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 338.0,
+	"status_bar_visible": true
+}
