@@ -1,0 +1,4 @@
+{
+    //Enable bracket matching on type
+    "quote_enable" : false
+}
