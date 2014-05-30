@@ -1,4 +1,4 @@
-Sublime Text Settings	{#welcome}
+Sublime Text Settings
 =====================
 
 These are personal settings for ST2. Having not yet used ST3, I cannot vouch as to if these settings are transferable to the newer version or not. **Use at your own risk**.
@@ -75,34 +75,48 @@ Packages
 - StringEncode (converts char from one "encoding" to another)
 - Sublimerge Pro
 - Tag (auto-complete closing tag, select tag contents)
+
 #### File Transfer
 - SFTP
+
 #### Version Control
+
 #### Code Intelligence
 - Jedi - Python Autocompletion
 - SublimeCodeIntel (HTML autocomplete)
 - SublimeLinter
+
 #### Project Management
 - Nettuts Fetch
+
 #### HTML
 - HTML Snippets
 - HTML-CSS-JS Prettify
 - HTMLAttributes (HTML attribute autocomplete)
+
 #### CSS
 - Bootstrap 3 Snippets
 - CSS Snippets
 - LESS
 - LESS-build
+
 #### JavaScript
 - Javascript Beautify
 - PyV8
 - Sublime-KnockoutJS-Snippets
+
 #### Ruby 
+
 #### PHP
+
 #### Databases
+
 #### Server Configs
+
 #### TeX
+
 #### Flash
+
 #### Java
 
 Key Bindings
