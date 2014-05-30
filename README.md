@@ -136,12 +136,15 @@ Key Bindings
 
 References
 ----------
-SFTP
-:   [Using Sublime Text 2 and SFTP to work on remote files](http://coderwall.com/p/52p2xa)
 
-Shortcuts
-:   [Keyboard Shortcuts - Windows/Linux](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)
-:   [Sublime Text 2 – Useful Shortcuts (PC)](https://gist.github.com/1736542)
+#### SFTP
 
-SSHFS (SSH Filesystem)
-:   [Dokan SSHFS 0.6.0 released](http://dokan-dev.net/en/2011/01/12/dokan-sshfs-0-6-0-released/)
+[Using Sublime Text 2 and SFTP to work on remote files](http://coderwall.com/p/52p2xa)
+
+#### Shortcuts
+[Keyboard Shortcuts - Windows/Linux](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)
+[Sublime Text 2 – Useful Shortcuts (PC)](https://gist.github.com/1736542)
+
+#### SSHFS (SSH Filesystem)
+
+[Dokan SSHFS 0.6.0 released](http://dokan-dev.net/en/2011/01/12/dokan-sshfs-0-6-0-released/)
