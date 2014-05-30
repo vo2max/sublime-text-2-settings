@@ -142,7 +142,8 @@ References
 [Using Sublime Text 2 and SFTP to work on remote files](http://coderwall.com/p/52p2xa)
 
 #### Shortcuts
-[Keyboard Shortcuts - Windows/Linux](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)
+
+[Keyboard Shortcuts - Windows/Linux](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)  
 [Sublime Text 2 – Useful Shortcuts (PC)](https://gist.github.com/1736542)
 
 #### SSHFS (SSH Filesystem)
