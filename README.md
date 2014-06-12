@@ -48,7 +48,7 @@ Installation
    ```
    SVN Checkout... -> 
    Repo: https://github.com/vo2max/sublime-text-settings.git/trunk
-   Checkout dir: (C:\Users\[USER]\AppData\Roaming\Sublime Text 2\Packages\User\)
+   Checkout dir: C:\Users\[USER]\AppData\Roaming\Sublime Text 2\Packages\User\
    ```
 
 3. Confirm prompt for export into a non-empty folder.
