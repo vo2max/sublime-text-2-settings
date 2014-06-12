@@ -63,47 +63,47 @@ Packages
 
 #### General Tools
 - [Alignment](http://wbond.net/sublime_packages/alignment)
-- BracketHighlighter (go to closing tag) [disable quotes in user settings]
-- Case Conversion
-- ChangeQuotes
-- DeleteBlankLines
-- Emmet
-- Find++
-- FreeMarker
-- Gist (Snipppet management)
-- Open URL
-- StringEncode (converts char from one "encoding" to another)
-- Sublimerge Pro
-- Tag (auto-complete closing tag, select tag contents)
+- [BracketHighlighter (go to closing tag) [disable quotes in user settings]](https://github.com/facelessuser/BracketHighlighter)
+- [Case Conversion](https://github.com/jdc0589/CaseConversion)
+- [ChangeQuotes](https://github.com/colinta/SublimeChangeQuotes)
+- [DeleteBlankLines](https://github.com/NicholasBuse/sublime_DeleteBlankLines)
+- [Emmet](https://github.com/sergeche/emmet-sublime)
+- [Find++](https://github.com/twolfson/FindPlusPlus)
+- [FreeMarker](https://github.com/hexinteractive/sublime-text-2-freemarker)
+- [Gist (Snipppet management)](https://github.com/condemil/Gist)
+- [Open URL](https://github.com/noahcoad/open-url)
+- [StringEncode (converts char from one "encoding" to another)](https://github.com/colinta/SublimeStringEncode)
+- [Sublimerge Pro](http://www.sublimerge.com/)
+- [Tag (auto-complete closing tag, select tag contents)](https://github.com/SublimeText/Tag)
 
 #### File Transfer
-- SFTP
+- [SFTP](http://wbond.net/sublime_packages/sftp)
 
 #### Version Control
 
 #### Code Intelligence
-- Jedi - Python Autocompletion
-- SublimeCodeIntel (HTML autocomplete)
-- SublimeLinter
+- [Jedi - Python Autocompletion](https://github.com/srusskih/SublimeJEDI)
+- [SublimeCodeIntel (HTML autocomplete)](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
+- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter-for-ST2)
 
 #### Project Management
-- Nettuts Fetch
+- [Nettuts Fetch](https://github.com/weslly/Nettuts-Fetch)
 
 #### HTML
-- HTML Snippets
-- HTML-CSS-JS Prettify
-- HTMLAttributes (HTML attribute autocomplete)
+- [HTML Snippets](https://github.com/joshnh/HTML-Snippets)
+- [HTML-CSS-JS Prettify](https://github.com/victorporof/Sublime-HTMLPrettify)
+- [HTMLAttributes (HTML attribute autocomplete)](https://github.com/agibsonsw/HTMLAttributes)
 
 #### CSS
-- Bootstrap 3 Snippets
-- CSS Snippets
-- LESS
-- LESS-build
+- [Bootstrap 3 Snippets](https://github.com/JasonMortonNZ/bs3-sublime-plugin)
+- [CSS Snippets](https://github.com/joshnh/CSS-Snippets)
+- [LESS](https://github.com/danro/LESS-sublime)
+- [LESS-build](https://github.com/berfarah/LESS-build-sublime)
 
 #### JavaScript
-- Javascript Beautify
-- PyV8
-- Sublime-KnockoutJS-Snippets
+- [Javascript Beautify](https://github.com/enginespot/js-beautify-sublime)
+- [PyV8](https://github.com/emmetio/pyv8-binaries)
+- [Sublime-KnockoutJS-Snippets](https://github.com/aaronpowell/Sublime-KnockoutJS-Snippets)
 
 #### Ruby 
 
@@ -136,6 +136,10 @@ Key Bindings
 
 References
 ----------
+
+#### Packages
+
+[Package Control](https://sublime.wbond.net)
 
 #### SFTP
 
