@@ -149,3 +149,7 @@ References
 #### SSHFS (SSH Filesystem)
 
 [Dokan SSHFS 0.6.0 released](http://dokan-dev.net/en/2011/01/12/dokan-sshfs-0-6-0-released/)
+
+#### Syncing
+
+[Syncing: Using Git/Dropbox](https://sublime.wbond.net/docs/syncing)
