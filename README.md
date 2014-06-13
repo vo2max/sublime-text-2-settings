@@ -66,15 +66,15 @@ Packages
 - [BracketHighlighter (go to closing tag) [disable quotes in user settings]](https://github.com/facelessuser/BracketHighlighter)
 - [Case Conversion](https://github.com/jdc0589/CaseConversion)
 - [ChangeQuotes](https://github.com/colinta/SublimeChangeQuotes)
+- [ColorPicker](http://weslly.github.io/ColorPicker/)
 - [DeleteBlankLines](https://github.com/NicholasBuse/sublime_DeleteBlankLines)
 - [Emmet](https://github.com/sergeche/emmet-sublime)
 - [Find++](https://github.com/twolfson/FindPlusPlus)
-- [FreeMarker](https://github.com/hexinteractive/sublime-text-2-freemarker)
+- [FreeMarker](https://github.com/briancavalier/textmate-freemarker-bundle)
 - [Gist (Snipppet management)](https://github.com/condemil/Gist)
 - [Open URL](https://github.com/noahcoad/open-url)
 - [StringEncode (converts char from one "encoding" to another)](https://github.com/colinta/SublimeStringEncode)
 - [Sublimerge Pro](http://www.sublimerge.com/)
-- [Tag (auto-complete closing tag, select tag contents)](https://github.com/SublimeText/Tag)
 
 #### File Transfer
 - [SFTP](http://wbond.net/sublime_packages/sftp)
