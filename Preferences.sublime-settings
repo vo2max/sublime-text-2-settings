@@ -1,12 +1,12 @@
 {
 	"color_scheme": "Packages/User/Sunburst (Modified).tmTheme",
-	"font_size": 9,
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage",
 		"Jedi - Python autocompletion",
-		"HTML-CSS-JS Prettify",
-		"Sublimerge Pro"
+		"Sublimerge Pro",
+		"HTML-CSS-JS Prettify"
 	],
 	"spell_check": true,
 	"word_wrap": false
