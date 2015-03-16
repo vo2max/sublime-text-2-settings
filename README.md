@@ -29,7 +29,6 @@ Installation
    ```
    mv User/UserTmp/.git User/
    rm -rf User/UserTmp
-   rmdir User/UserTmp
    ```
 
 4. Revert the state of the local repo to HEAD (git believes the local files are deleted). **This will overwrite any local changes.**
