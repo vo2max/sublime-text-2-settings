@@ -1,0 +1,6 @@
+{
+    "folders": [{
+        "path": "/C/temp/template"//,
+        //"file_exclude_patterns": ["*.jsp", "*.txt", "*.html", "*.xml", "*.hdr", "rc_lender*"]
+    }]
+}
