@@ -84,6 +84,7 @@ Packages
 #### Version Control
 
 #### Code Intelligence
+- [AngularJS](https://github.com/angular-ui/AngularJS-sublime-package)
 - [Jedi - Python Autocompletion](https://github.com/srusskih/SublimeJEDI)
 - [SublimeCodeIntel (HTML autocomplete)](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
 - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter-for-ST2)
