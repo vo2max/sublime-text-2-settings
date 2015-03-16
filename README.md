@@ -22,13 +22,14 @@ Installation
 
 2. Clone the repository's .git folder into a empty temporary directory.
    ```
-   git clone --no-checkout https://github.com/vo2max/sublime-text-settings.git User/User.tmp
+   git clone https://github.com/vo2max/sublime-text-settings.git User/UserTmp
    ```
 
 3. Move the .git folder to the `User` directory. This makes the `User` directory a git repo. Then, delete the temporary directory.
    ```
-   mv User/User.tmp/.git User/
-   rmdir User/User.tmp
+   mv User/UserTmp/.git User/
+   rm -rf User/UserTmp
+   rmdir User/UserTmp
    ```
 
 4. Revert the state of the local repo to HEAD (git believes the local files are deleted). **This will overwrite any local changes.**
