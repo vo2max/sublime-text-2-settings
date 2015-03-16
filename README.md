@@ -17,7 +17,7 @@ Installation
 
 1. Navigate to the Sublime Text 2 Packages directory.
    ```
-   cd /cygdrive/C/Users/[USER]/AppData/Roaming/Sublime\ Text\ 2/Packages/
+   cd /Users/[USER]/AppData/Roaming/Sublime\ Text\ 2/Packages/
    ```
 
 2. Clone the repository's .git folder into a empty temporary directory.
