@@ -64,6 +64,7 @@ Packages
 
 #### General Tools
 - [Alignment](http://wbond.net/sublime_packages/alignment)
+- [All Autocomplete](https://github.com/alienhard/SublimeAllAutocomplete)
 - [BracketHighlighter (go to closing tag) [disable quotes in user settings]](https://github.com/facelessuser/BracketHighlighter)
 - [Case Conversion](https://github.com/jdc0589/CaseConversion)
 - [ChangeQuotes](https://github.com/colinta/SublimeChangeQuotes)
@@ -74,6 +75,7 @@ Packages
 - [FreeMarker](https://github.com/briancavalier/textmate-freemarker-bundle)
 - [Gist (Snipppet management)](https://github.com/condemil/Gist)
 - [Open URL](https://github.com/noahcoad/open-url)
+- [Sidebar Enhancements](https://dl.dropboxusercontent.com/u/9303546/SublimeText/SideBarEnhancements.zip)
 - [StringEncode (converts char from one "encoding" to another)](https://github.com/colinta/SublimeStringEncode)
 - [Sublimerge Pro](http://www.sublimerge.com/)
 
