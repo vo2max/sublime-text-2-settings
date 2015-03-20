@@ -9,5 +9,7 @@
 		"HTML-CSS-JS Prettify"
 	],
 	"spell_check": true,
-	"word_wrap": false
+	"word_wrap": false,
+	"theme": "Soda Dark.sublime-theme",
+	"soda_classic_tabs": true
 }
