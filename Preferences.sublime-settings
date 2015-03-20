@@ -11,5 +11,6 @@
 	"spell_check": true,
 	"word_wrap": false,
 	"theme": "Soda Dark.sublime-theme",
-	"soda_classic_tabs": true
+	"soda_classic_tabs": true,
+	"tab_size": 4
 }
