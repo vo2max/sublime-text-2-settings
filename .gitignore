@@ -1,0 +1,10 @@
+Package Control.cache/**
+Projects/*.sublime-workspace
+
+
+Package Control.last-run
+Package Control.sublime-settings
+Side Bar.sublime-settings
+
+*.cache
+*.pyc

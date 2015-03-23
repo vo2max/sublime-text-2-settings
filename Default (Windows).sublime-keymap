@@ -1,0 +1,19 @@
+[
+    { "keys": ["alt+`"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+    //{ "keys": ["ctrl+'"], "command": "show_panel", "args": { "panel": "console", "toggle": true} }, 
+    { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
+    //{ "keys": ["ctrl+shift+o"], "command": "prompt_add_folder" },
+    //{ "keys": ["ctrl+shift+o"], "command": "expand_selection", "args": { "to": "tag" } }, 
+    //{ "keys": ["ctrl+shift+r"], "command": "reindent" , "args": {"single_line": false} },
+    { "keys": ["alt+a"], "command": "expand_selection", "args": { "to": "tag" } }, 
+    { "keys": ["ctrl+shift+\\"], "command": "insert", "args": { "characters": "&nbsp;" } }, 
+    { "keys": ["f9"], "command": "toggle_side_bar" }, 
+    { "keys": ["ctrl+shift+keypad_plus"], "command": "move_to_group", "args": { "group": 0 } }, 
+    { "keys": ["ctrl+shift+keypad_minus"], "command": "move_to_group", "args": { "group": 1 } }, 
+    { "keys": ["alt+keypad_minus"], "command": "set_layout", "args": { "cols": [0.0, 0.25, 1.0], "rows": [0.0, 1.0], "cells": [ [0, 0, 1, 1], [1, 0, 2, 1] ] } }, 
+    { "keys": ["alt+keypad_plus"], "command": "set_layout", "args": { "cols": [0.0, 0.75, 1.0],     "rows": [0.0, 1.0], "cells": [ [0, 0, 1, 1], [1, 0, 2, 1] ] } }, 
+    { "keys": ["ctrl+0"], "command": "reset_font_size_to_user_defaults" }, 
+    { "keys": ["ctrl+shift+w"], "command": "toggle_setting", "args": { "setting": "word_wrap" } },
+    { "keys": ["ctrl+shift+r"], "command": "browser_refresh", "args": { "auto_save": true, "delay": 0.5, "activate_browser": true,"browser_name" : "all" } }//,
+    //{ "keys": ["tab"], "command": "insert", "args": {"characters": "\t"}, "context": [ { "key": "auto_complete_visible" }, { "key": "setting.tab_completion", "operator": "equal", "operand": false } ] }
+]

@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Z/esign-zf2/src/main/php",
+			"folder_exclude_patterns": [
+			    "/Z/esign-zf2/src/main/php/components",
+			    "/Z/esign-zf2/src/main/php/data",
+			    "/Z/esign-zf2/src/main/php/generated",
+			    "/Z/esign-zf2/src/main/php/sigmagic",
+			    "/Z/esign-zf2/src/main/php/vendor"],
+			"file_exclude_patterns": [
+				"/Z/esign-zf2/src/main/php/esign/public/css/bootstrap/*.css",
+				"/Z/esign-zf2/src/main/php/esign/public/js/html5shiv.js",
+				"/Z/esign-zf2/src/main/php/esign/public/js/jquery.min.js"
+			]
+		}
+	]
+}

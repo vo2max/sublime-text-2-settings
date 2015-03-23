@@ -1,0 +1,6 @@
+{
+    "folders": [{
+        "path": "/C/Users/colin/workspace/DSIConfig/src/main/resources/templates",
+        "file_exclude_patterns": ["*.jsp", "*.txt", "*.html", "*.xml", "*.hdr", "rc_lender*"]
+    }]
+}
