@@ -1,10 +1,13 @@
 Package Control.cache/**
-Projects/*.sublime-workspace
+Servers/**
+sftp_servers/**
 
-
+Gist.sublime-settings
 Package Control.last-run
 Package Control.sublime-settings
 Side Bar.sublime-settings
 
 *.cache
+*.log
 *.pyc
+*.sublime-workspace
