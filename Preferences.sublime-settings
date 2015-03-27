@@ -5,12 +5,11 @@
 	[
 		"Vintage",
 		"Jedi - Python autocompletion",
-		"Sublimerge Pro",
-		"HTML-CSS-JS Prettify"
+		"Sublimerge Pro"
 	],
-	"spell_check": true,
-	"word_wrap": false,
-	"theme": "Soda Dark.sublime-theme",
 	"soda_classic_tabs": true,
-	"tab_size": 4
+	"spell_check": true,
+	"tab_size": 4,
+	"theme": "Soda Dark.sublime-theme",
+	"word_wrap": false
 }
